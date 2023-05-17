@@ -1,5 +1,5 @@
 <h3 align="center">React Native Job App</h3>
-<img src="assets/screenshots/home.png" alt="Home Screen" align="center">
+<img src="assets/screenshots/home.png" alt="Home Screen" margin="0 auto">
 <div align="center">
   <a href="https://expo.dev/@realbcole/react_native_jobs?serviceType=classic&distribution=expo-go">Live Demo</a>
 </div>
