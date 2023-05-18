@@ -41,8 +41,7 @@ Learn React Native
 
 ## Screenshots <a name = "screenshots"></a>
 
-[![Demo](https://github.com/realbcole/react_native_jobs/assets/89159678/a6a18c43-d8c6-475e-a626-5c0f248aa506)]
-
+<video src='https://github.com/realbcole/react_native_jobs/assets/89159678/a6a18c43-d8c6-475e-a626-5c0f248aa506' width=180/>
 <img src="assets/screenshots/home.png" alt="Home Screen">
 <img src="assets/screenshots/details.png" alt="Details Screen">
 <img src="assets/screenshots/search.png" alt="Search Screen">
