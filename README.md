@@ -1,5 +1,5 @@
 <h3 align="center">React Native Job App</h3>
-<img src="assets/screenshots/home.png" alt="Home Screen" margin="0 auto">
+<img src="assets/screenshots/home.png" alt="Home Screen">
 <div align="center">
   <a href="https://expo.dev/@realbcole/react_native_jobs?serviceType=classic&distribution=expo-go">Live Demo</a>
 </div>
@@ -37,6 +37,8 @@ Learn React Native
 - [JSearch](https://rapidapi.com/letscrape-6bRBa3QguO5/api/jsearch) - Job Data
 
 ## Screenshots <a name = "screenshots"></a>
+
+https://github.com/realbcole/react_native_jobs/assets/89159678/a6a18c43-d8c6-475e-a626-5c0f248aa506
 
 <img src="assets/screenshots/home.png" alt="Home Screen">
 <img src="assets/screenshots/details.png" alt="Details Screen">
